@@ -4,8 +4,6 @@
 
 PosturAI is a cutting-edge web application that uses computer vision and AI to detect and correct bad posture in real-time. Whether you're working at your desk or doing squats at home, PosturAI ensures you maintain proper form to prevent injuries and improve your health.
 
-![PosturAI Demo](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=PosturAI+Demo)
-
 ## 🎯 Features
 
 ### 🎥 **Real-Time Analysis**
@@ -41,38 +39,4 @@ PosturAI is a cutting-edge web application that uses computer vision and AI to d
 
 ## 🚀 Live Demo
 
-🌐 **Deployed App**: [https://posturai.vercel.app](https://posturai.vercel.app)
-
-## 📦 Installation & Setup
-
-### Prerequisites
-- Node.js 18+ 
-- Modern web browser with camera support
-- Webcam access permissions
-
-### Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/posturai.git
-cd posturai
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Open browser to http://localhost:5173
-```
-
-### Build for Production
-
-```bash
-# Create production build
-npm run build
-
-# Preview production build
-npm run preview
-```
-*Helping you maintain perfect posture, one frame at a time.*
+🌐 **Deployed App**: [https://posture-ai.netlify.app/](https://posture-ai.netlify.app/)
